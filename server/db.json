@@ -1,0 +1,51 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "birthdate": "28/02/1990",
+      "email": "nvana@gmail.com",
+      "address": "Ba Đình, Hà Nội",
+      "status": "Đang hoạt động"
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị B",
+      "birthdate": "15/07/1985",
+      "email": "ttb@gmail.com",
+      "address": "Cầu Giấy, Hà Nội",
+      "status": "Ngừng hoạt động"
+    },
+    {
+      "id": 3,
+      "name": "Lê Văn C",
+      "birthdate": "03/10/2000",
+      "email": "lvc@gmail.com",
+      "address": "Hai Bà Trưng, Hà Nội",
+      "status": "Ngừng hoạt động"
+    },
+    {
+      "id": 4,
+      "name": "Phạm Thị D",
+      "birthdate": "20/05/1995",
+      "email": "ptd@gmail.com",
+      "address": "Hoàn Kiếm, Hà Nội",
+      "status": "Đang hoạt động"
+    },
+    {
+      "id": 5,
+      "name": "Ngô Văn E",
+      "birthdate": "12/11/1988",
+      "email": "nve@gmail.com",
+      "address": "Cầu Giấy, Hà Nội",
+      "status": "Đang hoạt động"
+    },
+    {
+      "name": "Nguyen Thanh Tung",
+      "birthdate": "2005-10-08",
+      "email": "thanhtung@107.com",
+      "address": "dong da",
+      "id": 6
+    }
+  ]
+}
